@@ -1,0 +1,9 @@
+{
+  "name": "TdoggCoin", 
+  "symbol": "TDGC",
+  "uri": "https://raw.githubusercontent.com/Tdubz06/crypto/main/token_metadata.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
